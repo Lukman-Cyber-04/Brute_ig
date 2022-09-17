@@ -25,3 +25,11 @@ $ cd Brute_ig
 $ ls (L kecil)
 
 $ python run.py
+
+# Bagi Yg Sudah Install Silahkan Ketik
+
+$ cd Brute_ig
+
+$ git pull
+
+$ python run.py
